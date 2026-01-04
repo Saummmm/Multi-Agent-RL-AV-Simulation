@@ -1,0 +1,8 @@
+{
+  "agent": "agent_chunk_200000",
+  "checkpoint_file": "agent_chunk_200000.pt",
+  "steps": 5,
+  "episode_return": 14.5,
+  "frames_dir": "/content/drive/MyDrive/agilerl_runs/test_runs/agent_chunk_200000/frames",
+  "logs_jsonl": "/content/drive/MyDrive/agilerl_runs/test_runs/agent_chunk_200000/logs.jsonl"
+}
